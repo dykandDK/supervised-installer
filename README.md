@@ -1,6 +1,6 @@
-# This install method has been deprecated.
+# This fork is no longer required as the official installation method has been updated as of June 9th, 2020.  This fork is not being maintained and may cease to work. Please see link below for the official installation method:
 
-## https://www.home-assistant.io/blog/2020/05/09/deprecating-home-assistant-supervised-on-generic-linux/
+## https://github.com/home-assistant/supervised-installer
 
 # Install Home Assistant Supervised
 
